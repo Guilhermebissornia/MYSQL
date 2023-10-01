@@ -18,7 +18,7 @@ SELECT * from movies where category like '%ACTRESS%' and ceremony = '1' and winn
 -- 7) Na coluna/campo Winner, altere todos os valores com "True" para 1 e todos os valores "False" para 0.
 UPDATE movies
 SET winner = CASE
-    WHEN winner = 'true' THEN '1'    -- ERRO
+    WHEN winner = 'true' THEN '1'    
     WHEN winner = 'false' THEN '0'
     ELSE winner
 END;
