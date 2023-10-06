@@ -1,0 +1,4 @@
+drop database if exists hospital;
+CREATE DATABASE if not exists HOSPITAL;
+
+USE HOSPITAL;
