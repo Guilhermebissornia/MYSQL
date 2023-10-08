@@ -1,0 +1,29 @@
+INSERT INTO medicos (turno, especialidade, CONSULTORIO, `nome`, horario_de_atendimento, dias_na_semana)
+ VALUES ('horario comercial', 'clinico geral ', '05', 'Dr octavio ', 8, 'segunda a sexta' );
+ 
+ INSERT INTO medicos (turno, especialidade, CONSULTORIO, `nome`, horario_de_atendimento, dias_na_semana)
+ VALUES ('turno D', 'oftamologista ', '04', 'Dr werik ', 8, 'segunda a sabado' );
+ 
+ INSERT INTO medicos (turno, especialidade, CONSULTORIO, `nome`, horario_de_atendimento, dias_na_semana)
+ VALUES ('turno C', 'carciologista ', '03', 'Dr gustavo ', 6, 'escalas de turno' );
+ 
+ INSERT INTO medicos (turno, especialidade, CONSULTORIO, `nome`, horario_de_atendimento, dias_na_semana)
+ VALUES ('turno B', 'dermatologista ', '02', 'Dr gabriel ', 6, 'escalas de turno' );
+ 
+ INSERT INTO medicos (turno, especialidade, CONSULTORIO, `nome`, horario_de_atendimento, dias_na_semana)
+ VALUES ('turno A', 'pediatria ', '03', 'Dr guilherme ', 6, 'escalas de turno' );
+ 
+ INSERT INTO medicos (turno, especialidade, CONSULTORIO, `nome`, horario_de_atendimento, dias_na_semana)
+ VALUES ('horario comercial', 'gastrenterologia ', '11', 'Dr vitória ', 6, 'segunda a sexta' );
+ 
+ INSERT INTO medicos (turno, especialidade, CONSULTORIO, `nome`, horario_de_atendimento, dias_na_semana)
+ VALUES ('dois dias na semana', 'raio x ', '10', 'Dr magal ', 6, 'quarta e sexta' );
+ 
+ INSERT INTO medicos (turno, especialidade, CONSULTORIO, `nome`, horario_de_atendimento, dias_na_semana)
+ VALUES ('tres dias na semna', 'Fonoaudiólogo ', '09', 'Dr josé ', 6, 'segunda, quarta e sexta' );
+ 
+ INSERT INTO medicos (turno, especialidade, CONSULTORIO, `nome`, horario_de_atendimento, dias_na_semana)
+ VALUES ('plantão aos fins de semana', ' otorrinolaringologista', '08', 'Dr stevam ', 6, 'sabado e domingo, alternados ' );
+ 
+  INSERT INTO medicos (turno, especialidade, CONSULTORIO, `nome`, horario_de_atendimento, dias_na_semana)
+ VALUES ('um dia na semna', 'podologistas ', '03', 'Dr paulo ', 6, ' terça feira' );
