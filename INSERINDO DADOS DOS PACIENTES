@@ -1,0 +1,45 @@
+INSERT INTO pacientes (data_de_nascimento, endereco, telefone, `nome`, email, cpf, rg, convenio, matricula)
+ VALUES ('2001-12-21', 'francisco campos ', ' 11 9 8090-2030', ' elizabete bissornia ', 'elizabete@gmail.com', ' 366.235.299-22','505.994.58-8', 'bradesco', '3838 ' );
+ 
+  INSERT INTO pacientes (data_de_nascimento, endereco, telefone, `nome`, email, cpf, rg,convenio,matricula)
+ VALUES ('1991-08-29', ' rua chalupe ', '11 9 2040-3018', ' rodrigo ', 'rodrigo@gmail.com', ' 355.257.358-32','506.775.68-0', 'amil', '8090' );
+ 
+ INSERT INTO pacientes (data_de_nascimento, endereco, telefone, `nome`, email, cpf, rg,convenio,matricula)
+ VALUES ('2001-10-20', 'rua josé ', '11 9 8023-5539', ' jorel ', 'jorel@gmail.com', ' 344.333.777-28','458.2569-0', 'unimed', '2905' );
+ 
+  INSERT INTO pacientes (data_de_nascimento, endereco, telefone, `nome`, email, cpf, rg,convenio,matricula)
+ VALUES ('2019-03-02', 'rua são paulo', ' 11 9 2312-4022', ' maria', 'maria@gmail.com', ' 300.200.400-20','455.8259-2', 'unimed', '2028' );
+ 
+  INSERT INTO pacientes (data_de_nascimento, endereco, telefone, `nome`, email, cpf, rg,convenio,matricula)
+ VALUES ('1995-03-20', 'rua jose aldo ', ' 11 9 8030-2312', ' sival ', 'sival@gmail.com', ' 777.413.225-20','506.999.564-6', 'america', '7868' );
+ 
+  INSERT INTO pacientes (data_de_nascimento, endereco, telefone, `nome`, email, cpf, rg,convenio,matricula)
+ VALUES ('2003-10-21', 'rua chaluppe ', ' 11 9 8320-1518', ' sam', 'sam@outlook.com', ' 789.658.399-13','508.300.789-9', 'bradesco', '1520' );
+ 
+  INSERT INTO pacientes (data_de_nascimento, endereco, telefone, `nome`, email, cpf, rg,convenio,matricula)
+ VALUES ('2005-07-23', 'rua satiro pedro paiva ', ' 11 92328-6033', ' frodo ', 'frodo@outlook.com.com', ' 689.577.288-22','231.000.564-3', 'amil', '8687' );
+ 
+  INSERT INTO pacientes (data_de_nascimento, endereco, telefone, `nome`, email, cpf, rg,convenio,matricula)
+ VALUES ('1996-08-29', 'rua antunes alves costa ', ' 11 95548-6857', ' harry ', 'harry@gmail.com', ' 789.689.276-15','50.699.956-6', 'america', '7868' );
+ 
+  INSERT INTO pacientes (data_de_nascimento, endereco, telefone, `nome`, email, cpf, rg,convenio,matricula)
+ VALUES ('1991-03-22', 'rua londres ', '11 98568-5551 ', ' paul ', 'paul@outlook.com.com', ' 333.444.555-20','506.999.564-6', 'intermedica', '6897' );
+ 
+  INSERT INTO pacientes (data_de_nascimento, endereco, telefone, `nome`, email, cpf, rg,convenio,matricula)
+ VALUES ('1989-05-25', 'rua rubens caramez ', '11 93365-7722', ' washington ', 'washington@gmail.com', ' 111.222.333.17','55.689.927-6', 'america', '8855' );
+ 
+  INSERT INTO pacientes (data_de_nascimento, endereco, telefone, `nome`, email, cpf, rg,convenio,matricula)
+ VALUES ('1997-11-25', 'rua satiro pedro ', ' 11 97864-2244', ' vitoria ', 'vitoria@gmail.com', ' 777.888.999-14','70.649.806-6', 'bradesco', '2526' );
+ 
+  INSERT INTO pacientes (data_de_nascimento, endereco, telefone, `nome`, email, cpf, rg,convenio,matricula)
+ VALUES ('1996-05-29', 'rua francisco campos ', ' 11 98568-5551', ' guilherme ', 'guilhermebissornia@outloo.com.com', ' 350.280.654-22','87.996.956-6', 'intermedica', '3540' );
+ 
+  INSERT INTO pacientes (data_de_nascimento, endereco, telefone, `nome`, email, cpf, rg,convenio,matricula)
+ VALUES ('1991-11-23', 'rua sao bento ', ' 11 91855-1299', ' jose santos', 'josésantos@hotmail.com', ' 224.111.546-547','22.674.141-6', 'amil', '8811' );
+ 
+  INSERT INTO pacientes (data_de_nascimento, endereco, telefone, `nome`, email, cpf, rg,convenio,matricula)
+ VALUES ('1950-12-24', 'rua bragranca ', ' 11 94050-1512', ' rodrigo ', 'rodrigo@outlook.com', ' 125.548.124-18','50.699.956-6', 'america', '9868' );
+ 
+  INSERT INTO pacientes (data_de_nascimento, endereco, telefone, `nome`, email, cpf, rg,convenio,matricula)
+ VALUES ('1997-04-17', 'rua paralera ', ' 45 91102-0504', ' mateus ', 'mateus@gmail.com', ' 479.333.968.47','33.999.956-6', 'sul americana', '8715' );
+ 
