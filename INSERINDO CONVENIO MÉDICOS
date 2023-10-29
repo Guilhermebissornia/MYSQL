@@ -1,0 +1,16 @@
+-- Inclua ao menos quatro convênios médicos, associe ao menos cinco pacientes e cinco consultas.
+  
+   INSERT INTO convenio (tipo_convenio, paciente_id, consulta )
+ VALUES ('bradesco', '1','cardiologista');
+ 
+  INSERT INTO convenio (tipo_convenio, paciente_id, consulta )
+ VALUES ('amil', '2','clinico');
+ 
+  INSERT INTO convenio (tipo_convenio, paciente_id, consulta )
+ VALUES ('unimed', '3','pediatra');
+ 
+  INSERT INTO convenio (tipo_convenio, paciente_id, consulta )
+ VALUES ('sulamericano', '4','oftamologista');
+ 
+  INSERT INTO convenio (tipo_convenio, paciente_id, consulta )
+ VALUES ('medbrasil', '5','ortopedista');
