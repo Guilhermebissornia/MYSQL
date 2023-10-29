@@ -1,0 +1,9 @@
+create table convenio (
+
+id int not null auto_increment,
+tipo_convenio varchar (45) not null,
+paciente_id     varchar (45) not null,
+consulta varchar(45) not null,
+primary key (id)
+
+);
