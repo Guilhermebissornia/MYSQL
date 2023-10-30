@@ -1,0 +1,11 @@
+SELECT 
+funcionarios.primeiro_nome,
+funcionarios.sobrenome,
+funcionarios.salario,
+departamentos.departamento_nome
+
+
+ FROM funcionarios
+
+inner join departamentos 
+on funcionarios.departamento_id = departamentos.departamento_id  -- realizando um inner join, fazendo relacões em duas tabelas e pesquisa em conjunto !
